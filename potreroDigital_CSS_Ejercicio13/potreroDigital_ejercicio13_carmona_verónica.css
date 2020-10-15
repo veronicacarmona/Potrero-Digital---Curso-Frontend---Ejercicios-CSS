@@ -1,0 +1,23 @@
+
+
+.modificación1{
+  color: red;
+  background: blue;
+}
+
+p{
+  font-size: 16px;
+}
+
+.modificación2{
+  color: green;
+}
+
+#modificación3{
+  font-style: italic;
+  font-family: serif;
+}
+
+h2{
+  font-family: "helvetica",sans-serif;
+}

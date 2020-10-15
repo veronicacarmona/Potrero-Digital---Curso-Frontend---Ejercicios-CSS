@@ -1,0 +1,45 @@
+*{
+  display: flex;
+  background-color: #eff5f5;
+  padding: 2px;
+  }
+
+.caja1{
+  flex-wrap: wrap;
+}
+
+.caja2{
+flex-wrap: wrap;
+align-content: center;
+width: 50%;
+height: 80%;
+padding: 10px;
+}
+.caja3{
+flex-wrap: wrap;
+align-content: space-between;
+}
+.caja4{
+  flex-direction: column;
+  align-content: flex-end;
+  padding: 10x;
+  }
+
+h1{
+  font-family: 'Montserrat', sans-serif;
+}
+
+p{
+  font-family: 'Montserrat', sans-serif;
+  font-style: normal;
+  font-size: 15px;
+  color:grey;
+}
+
+#itálica{
+  font-style: italic;
+}
+
+#parrafo3{
+  font-size: 12px;
+}

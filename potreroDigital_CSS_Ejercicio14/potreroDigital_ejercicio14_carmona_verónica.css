@@ -1,0 +1,37 @@
+
+.caja1{
+  border-color: black;
+  border-style: solid;
+  background-color: red;
+  width: 300px;
+  height: 20vh;
+  padding: 0;
+  margin: 4px 3%;
+  }
+
+@media (max-width:1024px){
+  .caja1{
+    border-color: black;
+    border-style: dotted;
+    background-color: green;
+    width:20%;
+    height: 100px;
+    margin: 10px 6%;
+    padding: 9px;
+   }
+}
+
+
+
+@media (max-width:425px){
+  .caja1{
+     border-color: rgb(180, 0, 0);
+     border-style: solid;
+     background-color: green;
+     height: 100px;
+     width: 20%;
+     margin: 0;
+     padding-right: 9px;
+     padding: 0;
+   }
+}
